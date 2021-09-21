@@ -30,19 +30,19 @@
     color:limegreen;
 }
 table{
-    border:brown;
+    border:red;
     text-align: left;
     color:cyan;
     border:1px solid black
 }
 th{
-    border:brown;
+    border:red;
     text-align: left;
     color:goldenrod;
     border:1px solid black
 }
 td{
-    border:brown;
+    border:red;
     text-align: left;
     color:blueviolet;
     border:1px solid black
