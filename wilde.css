@@ -1,0 +1,30 @@
+.speech{
+    font-family:'Times New Roman', Times, serif;
+    font-size: medium;
+    color:yellow;
+}
+.speech:hover{
+    color:skyblue;
+}
+.stage-direction{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: small;
+    color:violet;
+}
+.stage-direction:hover{
+    color: rgb(233, 21, 233);
+}
+.name{
+    font-family: monospace;
+    font-size: large;
+    color: tomato;
+}
+.name:hover{
+    color:darkolivegreen;
+}
+.Mr. Allen Aynesworth{
+    color:blue;
+}
+.GERALD{
+    color:maroon;
+}
