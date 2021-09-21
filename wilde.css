@@ -1,14 +1,14 @@
 .speech{
     font-family:'Times New Roman', Times, serif;
-    font-size: medium;
+    font-size:larger
     color:red;
 }
 .speech:hover{
     color:royalblue;
 }
 .stage-direction{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: small;
+    font-family:'Times New Roman', Times, serif;
+    font-size:large
     color:seagreen;
 }
 .stage-direction:hover{
