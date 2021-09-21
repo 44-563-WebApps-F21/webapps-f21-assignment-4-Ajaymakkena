@@ -6,12 +6,12 @@
 .speech:hover{
     color:royalblue;
 }
-.stage-direction{
+.stage_direction{
     font-family:'Times New Roman', Times, serif;
     font-size:large;
     color:seagreen;
 }
-.stage-direction:hover{
+.stage_direction:hover{
     color: rgb(233, 21, 233);
 }
 .name{
