@@ -54,12 +54,12 @@ ul.navbar-horizontal {
 }
 ul.navbar-horizontal li {
     float:left;
-    background: linear-gradient(110deg, yellowgreen 40%,purple 50%);
+    background: blue;
 }
 ul.navbar-horizontal a {
     display:block;
     padding:20px;
-    color: pink;
+    color:red;
 }
 ul.navbar-horizontal a:hover {
     background-color: violet;
